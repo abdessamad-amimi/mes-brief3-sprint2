@@ -8,7 +8,7 @@
 
 YouCode organise des ateliers et souhaite proposer une page d’inscription. Le participant choisit un atelier, un mode de participation et renseigne les informations correspondantes avant de confirmer son inscription.
 
-Le HTML et le CSS sont fournis. Complétez `app.js` pour rendre la page interactive.
+Le HTML et le CSS sont fournis. Complétez `script.js` pour rendre la page interactive.
 
 ## Démarrage
 
@@ -92,4 +92,4 @@ Le groupe `champ-campus` est un `fieldset` initialement désactivé. Son activat
 
 ## Rendu attendu
 
-Remettre le dossier contenant `index.html`, `styles.css`, `app.js` complété et ce README. Être capable d’expliquer les événements utilisés, le clonage des templates, la validation et la mise à jour de `selectedConfig`.
+Remettre le dossier contenant `index.html`, `styles.css`, `script.js` complété et ce README. Être capable d’expliquer les événements utilisés, le clonage des templates, la validation et la mise à jour de `selectedConfig`.
