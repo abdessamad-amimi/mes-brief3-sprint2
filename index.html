@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>YouCode Workshop</title>
     <link rel="stylesheet" href="styles.css" />
-    <script src="script.js" defer></script>
+    <script src="script.js" type="module"></script>
   </head>
   <body>
     <main class="card">
@@ -19,7 +19,9 @@
         <fieldset class="champ">
           <legend>Votre atelier</legend>
           <!-- Insérer ici les clones de template-atelier pour les ateliers disponibles. -->
-          <div id="liste-ateliers" class="choix"></div>
+          <div id="liste-ateliers" class="choix">
+            
+          </div>
           <p id="erreur-atelier" class="erreur" aria-live="polite"></p>
         </fieldset>
 
